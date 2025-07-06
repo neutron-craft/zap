@@ -1,0 +1,31 @@
+Custom License for zap
+
+Copyright © 2025
+
+Permission is hereby granted to any individual or entity (“User”) to use the Jojo UI library (the “Library”) — which includes CSS, JavaScript, and related assets — **exclusively via the official public link** provided by the Author (e.g., jsDelivr), subject to the following terms:
+
+1. **Use Only via Provided Link**
+   - The Library may only be used by referencing the official hosted version (such as via jsDelivr).
+   - Downloading, self-hosting, bundling, or otherwise copying the Library for local or third-party hosting is **not permitted**.
+
+2. **No Modification**
+   - Users may **not modify, alter, deconstruct, or create derivative works** based on any part of the Library (CSS, JS, or otherwise).
+
+3. **Attribution Required**
+   - Users must provide clear credit to the Author (“Joe”) in any project that uses the Library.
+   - Example: *"UI powered by Jojo (by Joe)"* — placed in a visible location such as a footer, about page, or developer credits section.
+
+4. **No Redistribution**
+   - The Library may not be re-uploaded, resold, republished, or distributed in any form — modified or unmodified — outside of its original public hosting location.
+
+5. **Commercial Use Allowed**
+   - Users may incorporate the Library in personal or commercial projects **as long as** they comply with all other terms in this license.
+
+6. **Termination**
+   - Violation of any part of this license automatically terminates the user’s rights to use the Library.
+
+7. **Disclaimer**
+   - The Library is provided “as is,” without warranty of any kind. The Author is not liable for any damages or losses arising from its use.
+
+For special permissions, issues, or questions, contact: [your email or website].
+
